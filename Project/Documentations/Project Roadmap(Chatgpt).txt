@@ -1,0 +1,52 @@
+Day 1: Research, Define, and Strategy Development
+Morning
+Research and Understand the Problem
+Spend a couple of hours researching the coin change problem. Focus on understanding its significance and applications.
+Review relevant literature or online resources to grasp the basics of dynamic programming in this context.
+Afternoon
+Define the Problem
+
+Write a clear, concise definition of the coin change problem.
+Prepare a draft for the problem section of your video.
+Develop a Strategy
+
+Decide on the tools and programming languages you'll use.
+Sketch a high-level approach for solving the problem.
+Evening
+Outline the Algorithm
+Draft a basic outline of the dynamic programming algorithm you'll use.
+Write pseudocode or flowcharts to clarify your thought process.
+Day 2: Algorithm Design and Implementation
+Morning
+Finalize the Algorithm
+Refine your algorithm design. Ensure it's efficient and well-structured.
+Complete the pseudocode, making it detailed and ready for implementation.
+Afternoon
+Code Implementation
+Start coding your solution based on the pseudocode.
+Focus on writing clean, well-commented code.
+Evening
+Testing and Refinement
+Test your code with various inputs.
+Debug and refine the code as needed.
+Prepare the implementation section of your video, highlighting key parts of your code.
+Day 3: Analysis, Video Production, and Documentation
+Morning
+Analyze the Solution
+Conduct a thorough analysis of your algorithm (time and space complexity).
+Prepare a brief but informative explanation for your video.
+Afternoon
+Video Production
+Record the video, covering all aspects: problem, strategy, algorithm, implementation, analysis.
+Keep it concise and ensure your explanation is clear.
+Edit the video to fit within the five-minute limit.
+Evening
+Documentation and Final Touches
+
+Create a comprehensive README for your GitHub repository.
+Upload all code, resources, and references to GitHub.
+Double-check the video and GitHub repository for completeness and clarity.
+Upload and Review
+
+Upload the video to YouTube.
+Review all your work, make any last-minute adjustments.
